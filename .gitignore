@@ -1,0 +1,4 @@
+mergeddataset.csv
+*.pkl
+static/accuracy_chart.png
+__pycache__/

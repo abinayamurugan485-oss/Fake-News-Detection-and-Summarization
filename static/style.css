@@ -1,0 +1,13 @@
+/* static/style.css */
+body {
+  background: #f7f7f9;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+.card p {
+  font-size: 0.95rem;
+}
