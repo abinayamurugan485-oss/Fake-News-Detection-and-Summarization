@@ -92,8 +92,7 @@ http://127.0.0.1:5000
 
 - Random Forest : **99.83%**
 - KNN : **93.37%**
-
-## 📷 Screenshots
+  
 ## 📷 Screenshots
 
 ### Home Page
