@@ -94,8 +94,19 @@ http://127.0.0.1:5000
 - KNN : **93.37%**
 
 ## 📷 Screenshots
+## 📷 Screenshots
 
-Add screenshots of your web application here.
+### Home Page
+
+![Home Page](screenshots/Homepage.png)
+
+### Prediction Result
+
+![Prediction](screenshots/Prediction.png)
+
+### Summary Result
+
+![Summary](screenshots/Summary.png)
 
 ## 👩‍💻 Author
 
