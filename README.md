@@ -97,15 +97,15 @@ http://127.0.0.1:5000
 
 ### Home Page
 
-![Home Page](screenshots/Homepage.png)
+![Home Page](screenshots/homepage.png)
 
 ### Prediction Result
 
-![Prediction](screenshots/Prediction.png)
+![Prediction](screenshots/prediction.png)
 
 ### Summary Result
 
-![Summary](screenshots/Summary.png)
+![Summary](screenshots/summary.png)
 
 ## 👩‍💻 Author
 
